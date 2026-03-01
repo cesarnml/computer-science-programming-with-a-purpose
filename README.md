@@ -31,5 +31,4 @@
   - [ ] 4.4 Symbol Tables
   - [ ] 4.5 Case Study: Small-World Phenomenon
 
-
 ## Notes
