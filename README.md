@@ -25,14 +25,14 @@
   - [ ] Optional Enrichment on Conditionals and Loops (10 min)
   - [x] ~~_Conditionals and Loops (Graded Assignment)_~~ [2026-03-02]
   - [x] ~~_Conditionals and Loops (Programming Assignment, 8h)_~~ [2026-03-02]
-- [ ] Module 03 (Estimated total: 9h 15min)
-  - [ ] Supplements for Lecture 3 (10 min)
-  - [ ] Basic concepts (16 min)
-  - [ ] Typical array-processing code (23 min)
-  - [ ] Two-dimensional arrays (16 min)
+- [x] ~~_Module 03 (Estimated total: 9h 15min)_~~ [2026-03-02]
+  - [x] ~~_Supplements for Lecture 3 (10 min)_~~ [2026-03-02]
+  - [x] ~~_Basic concepts (16 min)_~~ [2026-03-02]
+  - [x] ~~_Typical array-processing code (23 min)_~~ [2026-03-02]
+  - [x] ~~_Two-dimensional arrays (16 min)_~~ [2026-03-02]
   - [ ] Optional Enrichment on Arrays (10 min)
-  - [ ] Arrays (Graded Assignment)
-  - [ ] Arrays (Programming Assignment, 8h)
+  - [x] ~~_Arrays (Graded Assignment)f_~~ [2026-03-02]
+  - [x] ~~_Arrays (Programming Assignment, 8h)_~~ [2026-03-02]
 - [ ] Module 04
 - [ ] Module 05
 - [ ] Module 06
