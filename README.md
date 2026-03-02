@@ -15,7 +15,7 @@
   - [x] ~~_Optional Enrichment on Basic Programming Concepts (10 min)_~~ [2026-03-01]
   - [x] ~~_Basic Programming Concepts (Graded Assignment)_~~ [2026-03-01]
   - [x] ~~_Hello, World (Programming Assignment, 8h)_~~ [2026-03-01]
-- [ ] Module 02 (Estimated total: 9h 14min)
+- [x] ~~_Module 02 (Estimated total: 9h 14min)_~~ [2026-03-02]
   - [x] ~~_Supplements for Lecture 2 (10 min)_~~ [2026-03-01]
   - [x] ~~_Conditionals: the if statement (6 min)_~~ [2026-03-01]
   - [x] ~~_Loops: the while statement (11 min)_~~ [2026-03-02]
