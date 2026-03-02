@@ -18,14 +18,21 @@
 - [ ] Module 02 (Estimated total: 9h 14min)
   - [x] ~~_Supplements for Lecture 2 (10 min)_~~ [2026-03-01]
   - [x] ~~_Conditionals: the if statement (6 min)_~~ [2026-03-01]
-  - [ ] Loops: the while statement (11 min)
-  - [ ] An alternative: the for loop (6 min)
-  - [ ] Nesting (11 min)
-  - [ ] Debugging (20 min)
+  - [x] ~~_Loops: the while statement (11 min)_~~ [2026-03-02]
+  - [x] ~~_An alternative: the for loop (6 min)_~~ [2026-03-02]
+  - [x] ~~_Nesting (11 min)_~~ [2026-03-02]
+  - [x] ~~_Debugging (20 min)_~~ [2026-03-02]
   - [ ] Optional Enrichment on Conditionals and Loops (10 min)
-  - [ ] Conditionals and Loops (Graded Assignment)
-  - [ ] Conditionals and Loops (Programming Assignment, 8h)
-- [ ] Module 03
+  - [x] ~~_Conditionals and Loops (Graded Assignment)_~~ [2026-03-02]
+  - [x] ~~_Conditionals and Loops (Programming Assignment, 8h)_~~ [2026-03-02]
+- [ ] Module 03 (Estimated total: 9h 15min)
+  - [ ] Supplements for Lecture 3 (10 min)
+  - [ ] Basic concepts (16 min)
+  - [ ] Typical array-processing code (23 min)
+  - [ ] Two-dimensional arrays (16 min)
+  - [ ] Optional Enrichment on Arrays (10 min)
+  - [ ] Arrays (Graded Assignment)
+  - [ ] Arrays (Programming Assignment, 8h)
 - [ ] Module 04
 - [ ] Module 05
 - [ ] Module 06
