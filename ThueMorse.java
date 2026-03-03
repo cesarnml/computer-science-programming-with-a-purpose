@@ -17,23 +17,27 @@
 public class ThueMorse {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
-        String thueMorse = "0";
+        int[] thueMorse = { 0 };
+        int length = 1;
 
-        while (thueMorse.length() < n) {
-            String nextSegment = "";
-            for (int i = 0; i < thueMorse.length(); i++) {
-                if (thueMorse.charAt(i) == '0') {
-                    nextSegment += "1";
-                } else {
-                    nextSegment += "0";
-                }
+        while (length < n) {
+            // Double the array size
+            int[] newThueMorse = new int[length * 2];
+            // Copy existing sequence
+            for (int i = 0; i < length; i++) {
+                newThueMorse[i] = thueMorse[i];
             }
-            thueMorse += nextSegment;
+            // Append flipped sequence
+            for (int i = 0; i < length; i++) {
+                newThueMorse[length + i] = 1 - thueMorse[i];
+            }
+            thueMorse = newThueMorse;
+            length *= 2;
         }
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if (thueMorse.charAt(i) == thueMorse.charAt(j)) {
+                if (thueMorse[i] == thueMorse[j]) {
                     System.out.print("+");
                 } else {
                     System.out.print("-");

@@ -21,15 +21,15 @@ public class Minesweeper {
         char[][] maze = new char[m][n];
 
         // Place the mines
-        for (int i = 0; i < k; i++) {
-            int row = (int) (Math.random() * m);
-            int col = (int) (Math.random() * n);
-            // Check if mine already in spot. If so, reassign.
-            while (maze[row][col] == '*') {
-                row = (int) (Math.random() * m);
-                col = (int) (Math.random() * n);
+        int placed = 0;
+        while (placed < k) {
+            int randomIndex = (int) (Math.random() * m * n);
+            int row = randomIndex / n;
+            int col = randomIndex % n;
+            if (maze[row][col] != '*') {
+                maze[row][col] = '*';
+                placed++;
             }
-            maze[row][col] = '*';
         }
 
         // Print out

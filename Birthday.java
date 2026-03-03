@@ -19,7 +19,7 @@ public class Birthday {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
         int trials = Integer.parseInt(args[1]);
-        int[] count = new int[n + 1];
+        int[] count = new int[n + 2];
 
         // Run the experiment trials times
         for (int trial = 0; trial < trials; trial++) {
@@ -40,7 +40,7 @@ public class Birthday {
 
         // Print results until fraction >= 50%
         double cumulative = 0.0;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= n + 1; i++) {
             cumulative += (double) count[i] / trials;
             System.out.println(i + " " + count[i] + " " + cumulative);
             if (cumulative >= 0.5) {
