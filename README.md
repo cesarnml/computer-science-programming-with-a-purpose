@@ -34,6 +34,14 @@
   - [x] ~~_Arrays (Graded Assignment)f_~~ [2026-03-02]
   - [x] ~~_Arrays (Programming Assignment, 8h)_~~ [2026-03-02]
 - [ ] Module 04
+  - [ ] Supplements for Lecture 4 (10 min)
+  - [ ] Standard input and output (22 min)
+  - [ ] Standard drawing (9 min)
+  - [ ] Fractal drawings (10 min)
+  - [ ] Animation (6 min)
+  - [ ] Optional Enrichment on Input and Output (10 min)
+  - [ ] Input and Output (Graded Assignment)
+  - [ ] Input and Output (Programming Assignment, 8h)
 - [ ] Module 05
 - [ ] Module 06
 - [ ] Module 07
