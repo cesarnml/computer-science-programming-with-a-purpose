@@ -34,19 +34,69 @@
   - [x] ~~_Arrays (Graded Assignment)f_~~ [2026-03-02]
   - [x] ~~_Arrays (Programming Assignment, 8h)_~~ [2026-03-02]
 - [ ] Module 04
-  - [ ] Supplements for Lecture 4 (10 min)
-  - [ ] Standard input and output (22 min)
-  - [ ] Standard drawing (9 min)
-  - [ ] Fractal drawings (10 min)
-  - [ ] Animation (6 min)
+  - [x] ~~_Supplements for Lecture 4 (10 min)_~~ [2026-03-03]
+  - [x] ~~_Standard input and output (22 min)_~~ [2026-03-03]
+  - [x] ~~_Standard drawing (9 min)_~~ [2026-03-03]
+  - [x] ~~_Fractal drawings (10 min)_~~ [2026-03-03]
+  - [x] ~~_Animation (6 min)_~~ [2026-03-03]
   - [ ] Optional Enrichment on Input and Output (10 min)
-  - [ ] Input and Output (Graded Assignment)
+  - [x] ~~_Input and Output (Graded Assignment)_~~ [2026-03-03]
   - [ ] Input and Output (Programming Assignment, 8h)
-- [ ] Module 05
-- [ ] Module 06
-- [ ] Module 07
-- [ ] Module 08
-- [ ] Module 09
-- [ ] Module 10
+- [ ] Module 05 (Estimated total: 9h 18min)
+  - [ ] Supplements for Lecture 5 (10 min)
+  - [ ] Basic concepts (15 min)
+  - [ ] Case study: Digital audio (17 min)
+  - [ ] Application: Gaussian distribution (12 min)
+  - [ ] Modular programming and libraries (14 min)
+  - [ ] Optional Enrichment on Functions and Libraries (10 min)
+  - [ ] Functions and Libraries (Graded Assignment)
+  - [ ] Functions (Programming Assignment, 8h)
+- [ ] Module 06 (Estimated total: 9h 17min)
+  - [ ] Supplements for Lecture 6 (10 min)
+  - [ ] Foundations (12 min)
+  - [ ] A classic example (11 min)
+  - [ ] Recursive graphics (11 min)
+  - [ ] Avoiding exponential waste (9 min)
+  - [ ] Dynamic programming (14 min)
+  - [ ] Optional Enrichment on Recursion (10 min)
+  - [ ] Recursion (Graded Assignment)
+  - [ ] Recursion (Programming Assignment, 8h)
+- [ ] Module 07 (Estimated total: 9h 24min)
+  - [ ] Supplements for Lecture 7 (10 min)
+  - [ ] The challenge (16 min)
+  - [ ] Empirical analysis (11 min)
+  - [ ] Mathematical models (12 min)
+  - [ ] Doubling method (16 min)
+  - [ ] Familiar examples (9 min)
+  - [ ] Optional Enrichment on Performance (10 min)
+  - [ ] Performance (Graded Assignment)
+  - [ ] Performance (Programming Assignment, 8h)
+- [ ] Module 08 (Estimated total: 4h 11min)
+  - [ ] Supplements for Lecture 8 (10 min)
+  - [ ] Overview (7 min)
+  - [ ] Color (17 min)
+  - [ ] Image processing (12 min)
+  - [ ] String processing (15 min)
+  - [ ] Optional Enrichment on Abstract Data Types (10 min)
+  - [ ] Abstract Data Types (Graded Assignment)
+  - [ ] Using Data Types (Programming Assignment, 3h)
+- [ ] Module 09 (Estimated total: 9h 17min)
+  - [ ] Supplements for Lecture 9 (10 min)
+  - [ ] Overview (5 min)
+  - [ ] Point charges (20 min)
+  - [ ] Turtle graphics (10 min)
+  - [ ] Complex numbers (22 min)
+  - [ ] Optional Enrichment on Creating Data Types (10 min)
+  - [ ] Creating Data Types (Graded Assignment)
+  - [ ] Creating Data Types (Programming Assignment, 8h)
+- [ ] Module 10 (Estimated total: 9h 14min)
+  - [ ] Supplements for Lecture 10 (10 min)
+  - [ ] Popular languages (28 min)
+  - [ ] Java in context (8 min)
+  - [ ] Object-oriented programming (8 min)
+  - [ ] Type checking (8 min)
+  - [ ] Functional programming (12 min)
+  - [ ] Programming Languages (Graded Assignment)
+  - [ ] Bar Chart Racer (Programming Assignment, 8h)
 
 ## Notes
