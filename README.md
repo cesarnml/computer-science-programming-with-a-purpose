@@ -43,7 +43,7 @@
   - [x] ~~_Input and Output (Graded Assignment)_~~ [2026-03-03]
   - [ ] Input and Output (Programming Assignment, 8h)
 - [ ] Module 05 (Estimated total: 9h 18min)
-  - [ ] Supplements for Lecture 5 (10 min)
+  - [x] ~~_Supplements for Lecture 5 (10 min)_~~ [2026-03-03]
   - [ ] Basic concepts (15 min)
   - [ ] Case study: Digital audio (17 min)
   - [ ] Application: Gaussian distribution (12 min)
