@@ -52,7 +52,7 @@
   - [x] ~~_Functions and Libraries (Graded Assignment)_~~ [2026-03-05]
   - [ ] Functions (Programming Assignment, 8h)
 - [ ] Module 06 (Estimated total: 9h 17min)
-  - [ ] Supplements for Lecture 6 (10 min)
+  - [x] ~~_Supplements for Lecture 6 (10 min)_~~ [2026-03-05]
   - [ ] Foundations (12 min)
   - [ ] A classic example (11 min)
   - [ ] Recursive graphics (11 min)
