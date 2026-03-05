@@ -12,7 +12,7 @@
   - [x] ~~_Program development (16 min)_~~ [2026-03-01]
   - [x] ~~_Built-in data types (32 min)_~~ [2026-03-01]
   - [x] ~~_Type conversion (10 min)_~~ [2026-03-01]
-  - [x] ~~_Optional Enrichment on Basic Programming Concepts (10 min)_~~ [2026-03-01]
+  - [x] ~~_*Optional Enrichment on Basic Programming Concepts (10 min)*_~~ [2026-03-05]
   - [x] ~~_Basic Programming Concepts (Graded Assignment)_~~ [2026-03-01]
   - [x] ~~_Hello, World (Programming Assignment, 8h)_~~ [2026-03-01]
 - [x] ~~_Module 02 (Estimated total: 9h 14min)_~~ [2026-03-02]
@@ -33,7 +33,7 @@
   - [ ] Optional Enrichment on Arrays (10 min)
   - [x] ~~_Arrays (Graded Assignment)f_~~ [2026-03-02]
   - [x] ~~_Arrays (Programming Assignment, 8h)_~~ [2026-03-02]
-- [ ] Module 04
+- [x] ~~_Module 04_~~ [2026-03-05]
   - [x] ~~_Supplements for Lecture 4 (10 min)_~~ [2026-03-03]
   - [x] ~~_Standard input and output (22 min)_~~ [2026-03-03]
   - [x] ~~_Standard drawing (9 min)_~~ [2026-03-03]
@@ -41,15 +41,15 @@
   - [x] ~~_Animation (6 min)_~~ [2026-03-03]
   - [ ] Optional Enrichment on Input and Output (10 min)
   - [x] ~~_Input and Output (Graded Assignment)_~~ [2026-03-03]
-  - [ ] Input and Output (Programming Assignment, 8h)
+  - [x] ~~_Input and Output (Programming Assignment, 8h)_~~ [2026-03-05]
 - [ ] Module 05 (Estimated total: 9h 18min)
   - [x] ~~_Supplements for Lecture 5 (10 min)_~~ [2026-03-03]
-  - [ ] Basic concepts (15 min)
-  - [ ] Case study: Digital audio (17 min)
-  - [ ] Application: Gaussian distribution (12 min)
-  - [ ] Modular programming and libraries (14 min)
+  - [x] ~~_Basic concepts (15 min)_~~ [2026-03-05]
+  - [x] ~~_Case study: Digital audio (17 min)_~~ [2026-03-05]
+  - [x] ~~_Application: Gaussian distribution (12 min)_~~ [2026-03-05]
+  - [x] ~~_Modular programming and libraries (14 min)_~~ [2026-03-05]
   - [ ] Optional Enrichment on Functions and Libraries (10 min)
-  - [ ] Functions and Libraries (Graded Assignment)
+  - [x] ~~_Functions and Libraries (Graded Assignment)_~~ [2026-03-05]
   - [ ] Functions (Programming Assignment, 8h)
 - [ ] Module 06 (Estimated total: 9h 17min)
   - [ ] Supplements for Lecture 6 (10 min)
