@@ -1,17 +1,15 @@
-/* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
- **************************************************************************** */
-
+/*
+ * Compilation:  javac WorldMap.java
+ * Execution:    java WorldMap < input.txt
+ *
+ * Reads map boundary data from standard input and draws each region as a
+ * polygon using StdDraw. The input begins with canvas width and height.
+ * Each region then provides: region name, number of vertices, and that many
+ * (x, y) coordinate pairs.
+ *
+ * % java WorldMap < usa.txt
+ */
 public class WorldMap {
-    /**
-     * Reads a map description from standard input and draws each region polygon.
-     * Input format:
-     * 1) canvas width and height,
-     * 2) repeated region blocks containing: region name, vertex count, then
-     *    vertex coordinate pairs (x, y).
-     */
     public static void main(String[] args) {
         int width = StdIn.readInt();
         int height = StdIn.readInt();
