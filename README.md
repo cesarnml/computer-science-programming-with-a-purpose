@@ -42,7 +42,7 @@
   - [ ] Optional Enrichment on Input and Output (10 min)
   - [x] ~~_Input and Output (Graded Assignment)_~~ [2026-03-03]
   - [x] ~~_Input and Output (Programming Assignment, 8h)_~~ [2026-03-05]
-- [ ] Module 05 (Estimated total: 9h 18min)
+- [x] ~~_Module 05 (Estimated total: 9h 18min)_~~ [2026-03-05]
   - [x] ~~_Supplements for Lecture 5 (10 min)_~~ [2026-03-03]
   - [x] ~~_Basic concepts (15 min)_~~ [2026-03-05]
   - [x] ~~_Case study: Digital audio (17 min)_~~ [2026-03-05]
