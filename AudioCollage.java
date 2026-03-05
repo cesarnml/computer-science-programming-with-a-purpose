@@ -6,15 +6,10 @@
  * amplify, reverse, merge, mix, and changeSpeed.
  *
  * The main() method reads five WAV files, combines them into an
- * audio collage using all required effects, enforces duration limits
- * (10 to 60 seconds), normalizes amplitudes to stay within [-1, +1],
- * and plays the result with StdAudio.play().
+ * audio collage using all required effects, normalizes amplitudes to
+ * stay within [-1, +1], and plays the result with StdAudio.play().
  */
 public class AudioCollage {
-    private static final int SAMPLE_RATE = 44100;
-    private static final int MIN_DURATION_SAMPLES = 10 * SAMPLE_RATE;
-    private static final int MAX_DURATION_SAMPLES = 60 * SAMPLE_RATE;
-
     // Returns a new array that rescales a[] by a multiplicative factor of alpha.
     public static double[] amplify(double[] a, double alpha) {
         /*
@@ -122,10 +117,9 @@ public class AudioCollage {
          * - changeSpeed + reverse for texture
          * - amplify + mix for layered sections
          * - merge to sequence sections
-         * 3) Repeat the phrase until total duration is at least 10 seconds.
-         * 4) Trim to at most 60 seconds.
-         * 5) Normalize so all output samples stay within [-1.0, 1.0].
-         * 6) Play the final collage with StdAudio.play(...).
+         * 3) Merge intro, layerA, and layerB into one collage.
+         * 4) Normalize so all output samples stay within [-1.0, 1.0].
+         * 5) Play the final collage with StdAudio.play(...).
          */
         double[] beatbox = StdAudio.read("./beatbox.wav");
         double[] buzzer = StdAudio.read("./buzzer.wav");
@@ -137,22 +131,7 @@ public class AudioCollage {
         double[] intro = merge(changeSpeed(beatbox, 1.2), reverse(chimes));
         double[] layerA = mix(amplify(cow, 0.45), changeSpeed(dialup, 0.8));
         double[] layerB = mix(amplify(reverse(buzzer), 0.50), changeSpeed(chimes, 1.5));
-        double[] phrase = merge(layerA, layerB);
-
-        // Repeat phrase to ensure the collage duration is at least 10 seconds.
-        double[] collage = intro;
-        while (collage.length < MIN_DURATION_SAMPLES) {
-            collage = merge(collage, phrase);
-        }
-
-        // Trim if necessary to keep collage within 60 seconds.
-        if (collage.length > MAX_DURATION_SAMPLES) {
-            double[] trimmed = new double[MAX_DURATION_SAMPLES];
-            for (int i = 0; i < MAX_DURATION_SAMPLES; i++) {
-                trimmed[i] = collage[i];
-            }
-            collage = trimmed;
-        }
+        double[] collage = merge(merge(intro, layerA), layerB);
 
         collage = normalize(collage);
         StdAudio.play(collage);
