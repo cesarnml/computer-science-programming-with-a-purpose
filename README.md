@@ -54,7 +54,7 @@
 - [ ] Module 06 (Estimated total: 9h 17min)
   - [x] ~~_Supplements for Lecture 6 (10 min)_~~ [2026-03-05]
   - [x] ~~_Foundations (12 min)_~~ [2026-03-05]
-  - [ ] A classic example (11 min)
+  - [x] ~~_A classic example (11 min)_~~ [2026-03-06]
   - [ ] Recursive graphics (11 min)
   - [ ] Avoiding exponential waste (9 min)
   - [ ] Dynamic programming (14 min)
