@@ -56,8 +56,8 @@
   - [x] ~~_Foundations (12 min)_~~ [2026-03-05]
   - [x] ~~_A classic example (11 min)_~~ [2026-03-06]
   - [x] ~~_Recursive graphics (11 min)_~~ [2026-03-06]
-  - [ ] Avoiding exponential waste (9 min)
-  - [ ] Dynamic programming (14 min)
+  - [x] ~~_Avoiding exponential waste (9 min)_~~ [2026-03-06]
+  - [x] ~~_Dynamic programming (14 min)_~~ [2026-03-06]
   - [ ] Optional Enrichment on Recursion (10 min)
   - [ ] Recursion (Graded Assignment)
   - [ ] Recursion (Programming Assignment, 8h)
