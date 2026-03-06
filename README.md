@@ -59,8 +59,8 @@
   - [x] ~~_Avoiding exponential waste (9 min)_~~ [2026-03-06]
   - [x] ~~_Dynamic programming (14 min)_~~ [2026-03-06]
   - [ ] Optional Enrichment on Recursion (10 min)
-  - [ ] Recursion (Graded Assignment)
-  - [ ] Recursion (Programming Assignment, 8h)
+  - [x] ~~_Recursion (Graded Assignment)_~~ [2026-03-06]
+  - [x] ~~_Recursion (Programming Assignment, 8h)_~~ [2026-03-06]
 - [ ] Module 07 (Estimated total: 9h 24min)
   - [ ] Supplements for Lecture 7 (10 min)
   - [ ] The challenge (16 min)
