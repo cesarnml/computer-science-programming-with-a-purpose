@@ -51,7 +51,7 @@
   - [ ] Optional Enrichment on Functions and Libraries (10 min)
   - [x] ~~_Functions and Libraries (Graded Assignment)_~~ [2026-03-05]
   - [ ] Functions (Programming Assignment, 8h)
-- [ ] Module 06 (Estimated total: 9h 17min)
+- [x] ~~_Module 06 (Estimated total: 9h 17min)_~~ [2026-03-06]
   - [x] ~~_Supplements for Lecture 6 (10 min)_~~ [2026-03-05]
   - [x] ~~_Foundations (12 min)_~~ [2026-03-05]
   - [x] ~~_A classic example (11 min)_~~ [2026-03-06]
