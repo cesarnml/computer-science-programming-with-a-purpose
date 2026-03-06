@@ -55,7 +55,7 @@
   - [x] ~~_Supplements for Lecture 6 (10 min)_~~ [2026-03-05]
   - [x] ~~_Foundations (12 min)_~~ [2026-03-05]
   - [x] ~~_A classic example (11 min)_~~ [2026-03-06]
-  - [ ] Recursive graphics (11 min)
+  - [x] ~~_Recursive graphics (11 min)_~~ [2026-03-06]
   - [ ] Avoiding exponential waste (9 min)
   - [ ] Dynamic programming (14 min)
   - [ ] Optional Enrichment on Recursion (10 min)
