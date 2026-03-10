@@ -62,8 +62,8 @@
   - [x] ~~_Recursion (Graded Assignment)_~~ [2026-03-06]
   - [x] ~~_Recursion (Programming Assignment, 8h)_~~ [2026-03-06]
 - [ ] Module 07 (Estimated total: 9h 24min)
-  - [x] ~~_*Supplements for Lecture 7 (10 min)*_~~ [2026-03-09]
-  - [x] ~~_*The challenge (16 min)*_~~ [2026-03-09]
+  - [ ] _Supplements for Lecture 7 (10 min)_
+  - [ ] _The challenge (16 min)_
   - [ ] Empirical analysis (11 min)
   - [ ] Mathematical models (12 min)
   - [ ] Doubling method (16 min)
