@@ -64,7 +64,7 @@
 - [ ] Module 07 (Estimated total: 9h 24min)
   - [ ] _Supplements for Lecture 7 (10 min)_
   - [ ] _The challenge (16 min)_
-  - [ ] Empirical analysis (11 min)
+  - [x] ~~_Empirical analysis (11 min)_~~ [2026-03-17]
   - [ ] Mathematical models (12 min)
   - [ ] Doubling method (16 min)
   - [ ] Familiar examples (9 min)
