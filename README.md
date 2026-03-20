@@ -65,7 +65,7 @@
   - [ ] _Supplements for Lecture 7 (10 min)_
   - [ ] _The challenge (16 min)_
   - [ ] _Empirical analysis (11 min)_
-  - [ ] Mathematical models (12 min)
+  - [x] ~~_Mathematical models (12 min)_~~ [2026-03-20]
   - [ ] Doubling method (16 min)
   - [ ] Familiar examples (9 min)
   - [ ] Optional Enrichment on Performance (10 min)
